@@ -3,7 +3,7 @@ sageone:
   client_secret: 'YOUR_CLIENT_SECRET'
   signing_secret: 'YOUR_SIGNING_SECRET'
   apim_subscription_key: 'YOUR_APIM_SUBSCRIPTION_KEY'
-  callback_url: 'YOUR_CALLBACK_URL'
+  callback_url: 'http://sage.vidhya.tv/auth/callback'
   auth_endpoint: 'https://www.sageone.com/oauth2/auth'
   token_endpoint:
     ca: 'https://mysageone.ca.sageone.com/oauth2/token'
